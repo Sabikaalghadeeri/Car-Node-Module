@@ -1,3 +1,4 @@
-const Car = require("./Car.js")
+// const Car = require("./Car.js")
 
-Car.beBasic()
+// Car.beBasic()
+// Car.class()
